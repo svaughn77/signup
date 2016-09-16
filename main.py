@@ -15,8 +15,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-#rename test from powershell
-#renamed and committing
+#final name change commit hopefully
 page_header = """
 <!DOCTYPE html>
 <html>
